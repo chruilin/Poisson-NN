@@ -1,6 +1,5 @@
 # Poisson-NN
-## A Poisson-NN embedded solver: Speed up solving the incompressible Navier-Stokes equations
-
+## High efficient computing approach incorporated with a Poisson Neural Network for solving the incompressible Navier-Stokes equations
 ### how to run:
 
 python ./Poisson-NN1024x1024/train.py --dtype=float32
